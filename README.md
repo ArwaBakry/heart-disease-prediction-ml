@@ -5,8 +5,7 @@ This project aims to analyze and compare the performance of various machine lear
 This dataset consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It has 76 attributes, including the predicted attribute, but all published experiments use only 14 of them. The presence of heart disease in the patient is referred to as the target field.
 
 ### 🎯 Target Column
-The target field represents the patient's risk of developing heart disease. It is represented by the binary numbers 0 (lower risk of heart attack) and 1 (higher risk of heart attack).
-📌 **Source:** https://archive.ics.uci.edu/dataset/45/heart+disease
+The target field represents the patient's risk of developing heart disease. It is represented by the binary numbers 0 (lower risk of heart attack) and 1 (higher risk of heart attack). 📌 **Source:** https://archive.ics.uci.edu/dataset/45/heart+disease
 
 ## 🧬 Features
 | Feature     | Description                                                                 |
